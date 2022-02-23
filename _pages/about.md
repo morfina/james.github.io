@@ -5,12 +5,6 @@ image: about.jpg
 permalink: /about/
 ---
 
-#### James...
+#### Hello World!
 
-Mi nombre es Jaime Pérez Bordillo. 
-
-Licenciado en ciencias de la computación USACH.
-
-Postítulo en gestión informática UC.
-
-Músico aficionado. Interprete de instrumentos de cuerda, principalmente guitarra.
+Hey, I’m Jaime. I’m a software engineer living in Chile. I am a fan of technology, music, and programming. I’m also interested in web development and innovation.
